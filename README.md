@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning coding for a potential career.
 - 🌱 I’m currently learning ... fundamentals of code (via The Odin Project).
 - 💞️ I’m looking to collaborate on ... nothing at the moment.
-- 📫 How to reach me ... here!
+- 📫 How to reach me ... here
 
 <!---
 berniecodes/berniecodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
